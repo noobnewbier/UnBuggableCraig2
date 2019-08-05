@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4204f221e7e976d4bbfed476ebd34d27, type: 3}
+  m_Name: EndGame
+  m_EditorClassIdentifier: 
+  _dialogues:
+  - After all disciple is bugged. The bug army retreated, as they know no matter how
+    strong they are, they could never bug the Unbuggable
+  - But nothing can destroy Unbuggable Craig, even if all his disciple is bugged,
+    he stays strong and look for allies to fight against the evil
+  - He remember his old friend who work in HMRC
+  - '...'
+  - '...'
+  - '...'
+  - END
+  - Unfortunately Pete was bugged and didn't implement the quit button, please use
+    your task manager :D

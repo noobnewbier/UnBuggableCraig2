@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4204f221e7e976d4bbfed476ebd34d27, type: 3}
+  m_Name: StartGame
+  m_EditorClassIdentifier: 
+  _dialogues:
+  - 'Chris : Crap we are surrounded, all our apps are bugged and is working against
+    us'
+  - 'Alex : I told you we should have written more unit test, just if we had those
+    we don''t have to deal with all these after refactoring'
+  - 'Pete : Um... I think they are too bugged that they couldn''t even chase us properly,
+    most of the time they are just running like headless chicken'

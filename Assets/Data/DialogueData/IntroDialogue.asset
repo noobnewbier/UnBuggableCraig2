@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4204f221e7e976d4bbfed476ebd34d27, type: 3}
+  m_Name: IntroDialogue
+  m_EditorClassIdentifier: 
+  _dialogues:
+  - 'Last time, after a fierce fight the Unbuggable Craig protected the App Cave with
+    his supreme power and unmatched wisdom. '
+  - Unfortunately, the bugs will never stop their assault, and in order to bring peace
+    to the rest of the world, Unbuggable Craig raises his flag, recruited people who
+    share the same vision and begins an assault to the bug army.
+  - 'However, the cunning bug leader see this coming, and infiltrated the army with
+    his follower. The Unbuggable Army which aimed to bring peace to the world are
+    now fighting against each other as they are confused by their enemy. '
+  - Craig and his 3 fellow disciple is the only one remains consciousness.

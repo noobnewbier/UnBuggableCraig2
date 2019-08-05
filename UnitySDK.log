@@ -1,0 +1,708 @@
+2/20/2019 1:28:07 AM
+ 
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:563)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+mysteriously reset
+UnityEngine.Debug:Log(Object)
+TowerDefenseAcademy:AcademyReset() (at Assets/Scripts/HackSussex/MLRelated/TowerDefenseAcademy.cs:19)
+MLAgents.Academy:EnvironmentReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/Scripts/ML/UnitySDK/Assets/ML-Agents/Scripts/Academy.cs:611)
+
