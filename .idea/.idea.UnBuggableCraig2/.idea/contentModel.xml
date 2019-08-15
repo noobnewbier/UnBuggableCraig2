@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Noobnewbier\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Noobnewbier\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_UnBuggableCraig2.-1305500198.00" t="ExcludeRecursive" />
+    <e p="D:\UnityWorkSpace\UnBuggableCraig2" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="3DModels" t="Include">
+          <e p="Simple SciFi Gun Turret Set" t="Include">
+            <e p="Read Me.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="CameraMouseDrag.cs" t="Include" />
+              <e p="CameraMouseRotate.cs" t="Include" />
+              <e p="MoveMe.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Packages" t="ExcludeRecursive">
+          <e p="NLog.4.5.11" t="Include">
+            <e p="lib" t="Include">
+              <e p="net45" t="Include">
+                <e p="NLog.xml" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Constants" t="Include">
+            <e p="Tags.cs" t="Include" />
+          </e>
+          <e p="DialogPoster.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="EventAggregator" t="Include">
+            <e p="EventAggregator.cs" t="Include" />
+            <e p="IEventAggregator.cs" t="Include" />
+            <e p="IHandle.cs" t="Include" />
+          </e>
+          <e p="GUI" t="Include">
+            <e p="DialogueText.cs" t="Include" />
+            <e p="EndGameDialogPoster.cs" t="Include" />
+            <e p="HealthBar.cs" t="Include" />
+            <e p="MoneyText.cs" t="Include" />
+            <e p="PresenterProvider.cs" t="Include" />
+            <e p="TimeText.cs" t="Include" />
+            <e p="TurretPanelView.cs" t="Include" />
+          </e>
+          <e p="HackSussex" t="Include">
+            <e p="MLRelated" t="Include">
+              <e p="EnemyAgent.cs" t="Include" />
+              <e p="MLConfig.cs" t="Include" />
+              <e p="MLTurretSpawner.cs" t="Include" />
+              <e p="TowerDefenseAcademy.cs" t="Include" />
+            </e>
+            <e p="States" t="Include">
+              <e p="AttackState.cs" t="Include" />
+              <e p="GameEndState.cs" t="Include" />
+              <e p="InitState.cs" t="Include" />
+              <e p="ResetState.cs" t="Include" />
+              <e p="TurnFinishedState.cs" t="Include" />
+            </e>
+            <e p="Status" t="Include">
+              <e p="BurnStatus.cs" t="Include" />
+              <e p="SlowStatus.cs" t="Include" />
+              <e p="Status.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Managers" t="Include">
+            <e p="EnemySpawner.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="InputHandler.cs" t="Include" />
+            <e p="IntroSceneManager.cs" t="Include" />
+            <e p="SceneLoader.cs" t="Include" />
+            <e p="ServiceLocator.cs" t="Include" />
+            <e p="ShopManager.cs" t="Include" />
+          </e>
+          <e p="ML" t="Include">
+            <e p="UnitySDK" t="Include">
+              <e p="Assets" t="Include">
+                <e p="ML-Agents" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="AgentEditor.cs" t="Include" />
+                    <e p="BrainEditor.cs" t="Include" />
+                    <e p="BrainParametersDrawer.cs" t="Include" />
+                    <e p="BroadcastHubDrawer.cs" t="Include" />
+                    <e p="DemonstrationDrawer.cs" t="Include" />
+                    <e p="DemonstrationImporter.cs" t="Include" />
+                    <e p="HeuristicBrainEditor.cs" t="Include" />
+                    <e p="LearningBrainEditor.cs" t="Include" />
+                    <e p="PlayerBrainEditor.cs" t="Include" />
+                    <e p="ResetParameterDrawer.cs" t="Include" />
+                    <e p="Tests" t="Include">
+                      <e p="DemonstrationTests.cs" t="Include" />
+                      <e p="EditModeTestActionMasker.cs" t="Include" />
+                      <e p="EditModeTestInternalBrainTensorApplier.cs" t="Include" />
+                      <e p="EditModeTestInternalBrainTensorGenerator.cs" t="Include" />
+                      <e p="MLAgentsEditModeTest.cs" t="Include" />
+                      <e p="MultinomialTest.cs" t="Include" />
+                      <e p="RandomNormalTest.cs" t="Include" />
+                      <e p="UtilitiesTests.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Scripts" t="Include">
+                    <e p="Academy.cs" t="Include" />
+                    <e p="ActionMasker.cs" t="Include" />
+                    <e p="Agent.cs" t="Include" />
+                    <e p="Batcher.cs" t="Include" />
+                    <e p="BCTeacherHelper.cs" t="Include" />
+                    <e p="Brain.cs" t="Include" />
+                    <e p="BrainParameters.cs" t="Include" />
+                    <e p="BroadcastHub.cs" t="Include" />
+                    <e p="Communicator.cs" t="Include" />
+                    <e p="CommunicatorObjects" t="Include">
+                      <e p="AgentActionProto.cs" t="Include" />
+                      <e p="AgentInfoProto.cs" t="Include" />
+                      <e p="BrainParametersProto.cs" t="Include" />
+                      <e p="CommandProto.cs" t="Include" />
+                      <e p="DemonstrationMetaProto.cs" t="Include" />
+                      <e p="EngineConfigurationProto.cs" t="Include" />
+                      <e p="EnvironmentParametersProto.cs" t="Include" />
+                      <e p="Header.cs" t="Include" />
+                      <e p="ResolutionProto.cs" t="Include" />
+                      <e p="SpaceTypeProto.cs" t="Include" />
+                      <e p="UnityInput.cs" t="Include" />
+                      <e p="UnityMessage.cs" t="Include" />
+                      <e p="UnityOutput.cs" t="Include" />
+                      <e p="UnityRlInitializationInput.cs" t="Include" />
+                      <e p="UnityRlInitializationOutput.cs" t="Include" />
+                      <e p="UnityRlInput.cs" t="Include" />
+                      <e p="UnityRlOutput.cs" t="Include" />
+                      <e p="UnityToExternal.cs" t="Include" />
+                      <e p="UnityToExternalGrpc.cs" t="Include" />
+                    </e>
+                    <e p="Decision.cs" t="Include" />
+                    <e p="Demonstration.cs" t="Include" />
+                    <e p="DemonstrationRecorder.cs" t="Include" />
+                    <e p="DemonstrationStore.cs" t="Include" />
+                    <e p="HeuristicBrain.cs" t="Include" />
+                    <e p="InferenceBrain" t="Include">
+                      <e p="ApplierImpl.cs" t="Include" />
+                      <e p="GeneratorImpl.cs" t="Include" />
+                      <e p="ModelParamLoader.cs" t="Include" />
+                      <e p="Tensor.cs" t="Include" />
+                      <e p="TensorApplier.cs" t="Include" />
+                      <e p="TensorGenerator.cs" t="Include" />
+                      <e p="TensorNames.cs" t="Include" />
+                      <e p="TFSharpInferenceEngine.cs" t="Include" />
+                      <e p="Utils" t="Include">
+                        <e p="Multinomial.cs" t="Include" />
+                        <e p="RandomNormal.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="LearningBrain.cs" t="Include" />
+                    <e p="Monitor.cs" t="Include" />
+                    <e p="PlayerBrain.cs" t="Include" />
+                    <e p="ResetParameters.cs" t="Include" />
+                    <e p="RpcCommunicator.cs" t="Include" />
+                    <e p="SocketCommunicator.cs" t="Include" />
+                    <e p="UnityAgentsException.cs" t="Include" />
+                    <e p="Utilities.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="ProjectSettings" t="Include">
+                <e p="ProjectVersion.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="MLScript" t="Include">
+            <e p="RandomRunner.cs" t="Include" />
+          </e>
+          <e p="ScriptableObjects" t="Include">
+            <e p="DialogueData.cs" t="Include" />
+            <e p="EnemyData.cs" t="Include" />
+            <e p="GameConfigData.cs" t="Include" />
+            <e p="PlayerData.cs" t="Include" />
+          </e>
+          <e p="StateMachine" t="Include">
+            <e p="DuringTurnState.cs" t="Include" />
+            <e p="EndGameState.cs" t="Include" />
+            <e p="EndTurnState.cs" t="Include" />
+            <e p="InitGameState.cs" t="Include" />
+            <e p="InitTurnState.cs" t="Include" />
+          </e>
+          <e p="ThirdPersonCamera.cs" t="Include" />
+          <e p="TurretManager.cs" t="Include" />
+          <e p="TurretPlacer.cs" t="Include" />
+          <e p="Turrets" t="Include">
+            <e p="Bullet.cs" t="Include" />
+            <e p="NearByUnitDetector.cs" t="Include" />
+            <e p="ScriptableObject" t="Include">
+              <e p="BulletData.cs" t="Include" />
+              <e p="TurretData.cs" t="Include" />
+            </e>
+            <e p="Turret.cs" t="Include" />
+            <e p="TurretRange.cs" t="Include" />
+          </e>
+          <e p="UnitControler.cs" t="Include" />
+          <e p="Utils" t="Include">
+            <e p="ObjectPool.cs" t="Include" />
+            <e p="PooledMonoBehaviour.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="UnBuggableCraig2.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

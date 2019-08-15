@@ -4,7 +4,8 @@
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -13,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _range: 12
   _damage: 10
-  _bulletSpeed: 35
+  _bulletSpeed: 10
   _status: {fileID: 11400000, guid: a8c9ec34a23f07d4093b39034ef530ea, type: 2}
